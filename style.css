@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(202, 242, 242);
+    
+    height: auto;
+    padding: 10px;
+    margin: 10px 10px 10px 12px;
+}
+
+body{
+    border: 2px solid black;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+}
+p{
+   letter-spacing: 1px;
+   word-spacing: 2px;
+}
+footer{
+    width: auto;
+    padding: 3px;
+    margin: 4px;
+}
+#item{
+    color: rgb(88, 113, 8);
+}
+
+.btn{
+    color: rgba(209, 49, 49, 0.932);
+}
